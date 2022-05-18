@@ -7,7 +7,7 @@ function App() {
     <ApolloExplorerReact
       className='App'
       apolloStudioEnv='staging'
-      graphRef='graph@current'
+      graphRef='acephei@current'
       endpointUrl='https://acephei-gateway.herokuapp.com'
       initialState={{
         document: `query Example {
